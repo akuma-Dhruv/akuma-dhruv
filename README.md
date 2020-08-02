@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <a href="https://www.linkedin.com/in/dhruv-garg-7957911ab/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,6 +16,10 @@
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br></br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-dhruv&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuma-dhruv&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Dhruv's github stats"/>
+</p>
 <!--
 **akuma-Dhruv/akuma-dhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
