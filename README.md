@@ -17,7 +17,7 @@
 </a>
 <br></br>
 -🌱 I’m currently learning Data structures
--👯 I’m looking for help in Tries 
+- 👯 I’m looking for help in Tries 
 <p align="center">
 <a href = " ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-dhruv&theme=synthwave" />
