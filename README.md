@@ -17,7 +17,6 @@
 </a>
 <br></br>
 - 🌱 I’m currently learning Data structures <br>
-- 👯 I’m looking for help in Tries <br>
 <p align="center">
 <a href = " ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-dhruv&theme=synthwave" />
@@ -31,7 +30,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 👯 I’m looking for help in Tries <br>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
