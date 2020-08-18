@@ -9,7 +9,7 @@
 <a href="mailto:dhruvgarg79@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.instagram.com/flummoxed_bamboozle/">
+<a href="https://www.instagram.com/desperado_dhruv/">
   <img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/akuma_Dhruv">
