@@ -1,29 +1,41 @@
-Pankaj hired a new accountant for his firm,
-On the first day he(accountant) stored all $N$ the entries as Strings which makes it quiet tough to evaluate all the transactions.
-Now you have to write a program which for a given a set of $N$ strings each contain a number and white space(s), determine that number out of the string print all the numbers.
+# Hi there 👋
 
-###Input:
-First line contains an single integer N denoting number of entries and then $N$ strings.
+<a href="https://www.linkedin.com/in/dhruv-garg-7957911ab/">
+  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/akuma-dhruv">
+  <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="mailto:dhruvgarg79@gmail.com">
+  <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.instagram.com/desperado_dhruv/">
+  <img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.hackerrank.com/akuma_Dhruv">
+  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<br></br>
+- 🌱 I’m currently learning Data structures <br>
+- 👯 I’m looking to collaborate on Any android project
+<p align="center">
+<a href = " ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-dhruv&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuma-dhruv&show_icons=true&theme=synthwave" alt="Dhruv's github stats"/>
+</a>
+</p>
+<br></br>
+<!--
+**akuma-Dhruv/akuma-dhruv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-###Output:
-print the array of numbers separated by new line.
+Here are some ideas to get you started:
 
-###Constraints: 
-$1 \leq N \leq 500$
-
-###Sample Input: 
-4
-John 15
-17 to Ankit
-27 to Manish
-Chirag took 37 
-
-###Sample Output: 
-15
-17
-27
-37
-
-###Explanation: 
-John 15 
-Get 15 out of this string and insert It in array.
+- 🔭 I’m currently working on ...
+- 👯 I’m looking for help in Tries <br>
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
