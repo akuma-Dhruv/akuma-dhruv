@@ -16,7 +16,7 @@
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br></br>
-- 🌱 I’m currently learning Data structures <br>
+- 🌱 I’m currently learning javaScript <br>
 - 👯 I’m looking to collaborate on Any android project
 <p align="center">
 <a href = " ">
