@@ -17,9 +17,12 @@
 </a>
 <a href ="https://www.codechef.com/users/akuma_dhruv">
 	  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 <br></br>
 - 🌱 I’m currently learning javaScript <br>
 - 👯 I’m looking to collaborate on Any android project
+- 😁 FUn Fact: lets connect and have some humour over code!
+
 <p align="center">
 <a href = " ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-dhruv&theme=synthwave" />
