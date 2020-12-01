@@ -20,8 +20,8 @@
 </a>
 <br></br>
 - 🌱 I’m currently learning javaScript <br>
-- 👯 I’m looking to collaborate on Any android project
-- 😁 FUn Fact: lets connect and have some humour over code!
+- 👯 I’m looking to collaborate on Any android project <br>
+- 😁 FUn Fact: lets connect and have some humour over code! <br>
 
 <p align="center">
 <a href = " ">
