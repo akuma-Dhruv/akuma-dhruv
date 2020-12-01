@@ -15,6 +15,8 @@
 <a href="https://www.hackerrank.com/akuma_Dhruv">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+<a href ="https://www.codechef.com/users/akuma_dhruv">
+	  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 <br></br>
 - 🌱 I’m currently learning javaScript <br>
 - 👯 I’m looking to collaborate on Any android project
