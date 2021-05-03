@@ -19,14 +19,14 @@
 	  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br></br>
-- 🌱 I’m currently learning javaScript <br>
+- 🌱 I’m currently learning java <br>
 - 👯 I’m looking to collaborate on Any android project <br>
 - 😁 FUn Fact: lets connect and have some humour over code! <br>
 
 <p align="center">
 <a href = " ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuma-dhruv&theme=synthwave" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuma-dhruv&show_icons=true&theme=synthwave" alt="Dhruv's github stats"/>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuma-dhruv&show_icons=true&theme=synthwave" alt="Dhruv's github stats"/> -->
 </a>
 </p>
 <br></br>
