@@ -29,10 +29,14 @@
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akuma-dhruv&show_icons=true&theme=synthwave" alt="Dhruv's github stats"/> -->
 </a>
 </p>
-### Some works 
+<hr>
 
+### Some works 
 <a href='https://akuma-dhruv.github.io/Experiment'>Snake</a> 
+
 <a href='https://akuma-dhruv.github.io/jss-clock'>Clock</a> 
+
 <a href='https://akuma-dhruv.github.io/me'>Personal Website(to be updated soon)</a> 
+
 <a href='https://akuma-dhruv.github.io/Ticket-management-system'>TMS(in progress)</a> 
 <br></br>
